@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MartelShokry30
+- 👀 I’m interested in Digital IC Design and verification & IC layout design
+- 🌱 I’m currently learning data structures and algorithms in C++
+- 📫 How to reach me: martelshokry@gmail.com
+- ⚡ Fun fact: I am obsessed with programming
